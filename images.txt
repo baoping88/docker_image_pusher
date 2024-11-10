@@ -1,1 +1,1 @@
-gethomepage/homepage
+ghcr.io/gethomepage/homepage
