@@ -1,1 +1,1 @@
-containrrr/watchtower
+privoce/vocechat-server
