@@ -1,1 +1,1 @@
-boredazfcuk/icloudpd
+boredazfcuk/icloudpd:latest
