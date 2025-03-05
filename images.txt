@@ -1,1 +1,1 @@
-boredazfcuk/icloudpd:latest
+finab/bark-server:latest
